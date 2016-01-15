@@ -23,3 +23,4 @@
 ## 四：开源完整项目
 ### 1、[CoCoin](https://github.com/Nightonke/CoCoin)
 <img src="https://github.com/Nightonke/CoCoin/blob/master/Gif/%E8%AE%B0%E5%BD%95.gif"/>
+<img src="https://github.com/Nightonke/CoCoin/blob/master/Gif/%E4%BB%8A%E6%97%A5%E8%A7%86%E5%9B%BE.gif"/>
