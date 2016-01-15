@@ -18,3 +18,8 @@
 <img src="https://github.com/gzu-liyujiang/AndroidPicker/blob/master/screenshots/address.gif"/>
 <img src="https://github.com/gzu-liyujiang/AndroidPicker/blob/master/screenshots/constellation.gif"/>
 <img src="https://github.com/gzu-liyujiang/AndroidPicker/blob/master/screenshots/color.gif"/>
+
+
+## 四：开源完整项目
+### 1、[CoCoin](https://github.com/Nightonke/CoCoin)
+<img src="https://github.com/Nightonke/CoCoin/blob/master/Gif/%E8%AE%B0%E5%BD%95.gif"/>
