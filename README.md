@@ -4,6 +4,8 @@
 ## 一：特效类项目 
 ### 1、[BrokenView](https://github.com/zhanyongsheng/BrokenView)
 <img src="https://raw.githubusercontent.com/zhanyongsheng/raw/master/BrokenView/image/demo.gif" />
+### 2、[AndroidMosaicLayout](https://github.com/adhamenaya/AndroidMosaicLayout)
+<img src="https://cloud.githubusercontent.com/assets/1500868/11513643/fb4e754e-987c-11e5-8f18-025d934c69b4.png"/>
 
 
 ## 二：MVP学习项目
