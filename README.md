@@ -3,3 +3,8 @@
 
 ## 1 项目 [BrokenView](https://github.com/zhanyongsheng/BrokenView)<br/>
      <img src="https://raw.githubusercontent.com/zhanyongsheng/raw/master/BrokenView/image/demo.gif" />
+     
+     ##ScreenShot
+     
+     
+     <img src="https://raw.githubusercontent.com/dongjunkun/DropDownMenu/master/art/simple.gif"/>
