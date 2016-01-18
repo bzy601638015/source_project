@@ -26,3 +26,8 @@
 ### 1、[CoCoin](https://github.com/Nightonke/CoCoin)
 <img src="https://github.com/Nightonke/CoCoin/blob/master/Gif/%E8%AE%B0%E5%BD%95.gif"/>
 <img src="https://github.com/Nightonke/CoCoin/blob/master/Gif/%E4%BB%8A%E6%97%A5%E8%A7%86%E5%9B%BE.gif"/>
+
+## 五：工具类
+### 1、[FileDownloader](https://github.com/lingochamp/FileDownloader)
+<img src="https://github.com/lingochamp/FileDownloader/raw/master/art/serial_tasks_demo.gif"/>
+<img src="https://github.com/lingochamp/FileDownloader/raw/master/art/parallel_tasks_demo.gif"/>
