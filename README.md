@@ -21,6 +21,8 @@
 <img src="https://github.com/gzu-liyujiang/AndroidPicker/blob/master/screenshots/address.gif"/>
 <img src="https://github.com/gzu-liyujiang/AndroidPicker/blob/master/screenshots/constellation.gif"/>
 <img src="https://github.com/gzu-liyujiang/AndroidPicker/blob/master/screenshots/color.gif"/>
+### 2、[android-floating-action-button](https://github.com/futuresimple/android-floating-action-button)
+<img src="https://github.com/futuresimple/android-floating-action-button/blob/master/screenshots/menu.gif"/>
 
 
 ## 四：开源完整项目
