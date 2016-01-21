@@ -23,6 +23,8 @@
 <img src="https://github.com/gzu-liyujiang/AndroidPicker/blob/master/screenshots/color.gif"/>
 ### 2、[android-floating-action-button](https://github.com/futuresimple/android-floating-action-button)
 <img src="https://github.com/futuresimple/android-floating-action-button/blob/master/screenshots/menu.gif"/>
+### 3、[KProgressHUD](https://github.com/Kaopiz/KProgressHUD)
+<img src="https://raw.githubusercontent.com/Kaopiz/KProgressHUD/master/demo/screenshots/screencast.gif"/>
 
 
 ## 四：开源完整项目
