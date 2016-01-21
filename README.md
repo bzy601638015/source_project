@@ -36,3 +36,5 @@
 ### 1、[FileDownloader](https://github.com/lingochamp/FileDownloader)
 <img src="https://github.com/lingochamp/FileDownloader/raw/master/art/serial_tasks_demo.gif"/>
 <img src="https://github.com/lingochamp/FileDownloader/raw/master/art/parallel_tasks_demo.gif"/>
+### 2、[blockcanary](https://github.com/moduth/blockcanary) 性能检测
+<img src="https://github.com/moduth/blockcanary/blob/master/art/shot1.png"/>
