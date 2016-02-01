@@ -27,6 +27,8 @@
 <img src="https://raw.githubusercontent.com/Kaopiz/KProgressHUD/master/demo/screenshots/screencast.gif"/>
 ### 4、[uCrop](https://github.com/Yalantis/uCrop)
 <img src="https://camo.githubusercontent.com/8577338af603bb6046e0ff06e2530cbbedd94d85/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3232313933352f73637265656e73686f74732f323437343239352f616e696d6174696f6e2e676966"/>
+### 5、[Android-ConvenientBanner](https://github.com/saiwu-bigkoo/Android-ConvenientBanner) 首页轮播效果
+<img src="https://github.com/saiwu-bigkoo/Android-ConvenientBanner/blob/master/preview/convenientbannerdemo.gif"/>
 
 ## 四：开源完整项目
 ### 1、[CoCoin](https://github.com/Nightonke/CoCoin)
