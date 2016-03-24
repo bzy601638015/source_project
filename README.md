@@ -32,7 +32,8 @@
 <img src="https://github.com/saiwu-bigkoo/Android-ConvenientBanner/blob/master/preview/convenientbannerdemo.gif"/>
 ### 6.[ExpandablePager](https://github.com/Telenav/ExpandablePager) 
 <img src="https://github.com/Telenav/ExpandablePager/blob/master/gif/expandablepager.gif?token=AMYIVqqzN85dOdOY4DOfk2wC-i8R7RxNks5W1HArwA%3D%3D"/>
-
+### 7.[JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch)
+<img src="https://raw.githubusercontent.com/Jacksgong/JKeybordPanelSwitch/master/img/resolve_mv.gif"/>
 ## 四：开源完整项目
 ### 1、[CoCoin](https://github.com/Nightonke/CoCoin)
 <img src="https://github.com/Nightonke/CoCoin/blob/master/Gif/%E8%AE%B0%E5%BD%95.gif"/>
